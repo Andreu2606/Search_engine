@@ -202,7 +202,7 @@ void ConverterJSON::putAnswers(std::vector<std::vector<std::pair<int, float>>> a
 
             // Создаем json объект для текущего запроса и добавляем его в поле answers
             ordered_json requestResult;
-            requestResult["result"] = !answers.empty();
+            requestResult["result"] = !answer.empty();
 
             // Если ответ не пустой, заполняем поле docid и rank
             if (!answer.empty())
