@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Search_engine" targetName="Search_engine" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a94d0e2f-0d30-43e2-8377-8c4d03761514" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gtest" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2zwEJjpGw7wSF04TnRlyQvtmEHo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.main.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.test.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.test.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Search_engine.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Debug.Search_engine.executor&quot;: &quot;Debug&quot;,
+    &quot;CTest Application.All CTest.executor&quot;: &quot;Run&quot;,
+    &quot;Google Test.All in TestCaseInvertedIndex.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;Google Test.InvertedIndex.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;Google Test.SampleTest.BasicAssertion.executor&quot;: &quot;Run&quot;,
+    &quot;Google Test.TestCaseInvertedIndex.TestBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Google Test.TestCaseInvertedIndex.TestBasic2.executor&quot;: &quot;Run&quot;,
+    &quot;Google Test.TestCaseInvertedIndex.TestInvertedIndexMissingWord.executor&quot;: &quot;Run&quot;,
+    &quot;Google Test.TestCaseSearchServer.TestSimple.executor&quot;: &quot;Run&quot;,
+    &quot;Google Test.TestCaseSearchServer.TestTop5.executor&quot;: &quot;Run&quot;,
+    &quot;Google Test.sample_test_case.sample_test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;ctest.advertisement.all.test.configuration.is.created&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Search_engine&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.other&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JSON&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Search_engine\JSON" />
+      <recent name="D:\Search_engine\headers" />
+      <recent name="D:\Search_engine\src" />
+      <recent name="D:\Search_engine\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Search_engine">
+    <configuration name="All in Search_engine" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://${projectDir}" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Search_engine" TARGET_NAME="Search_engine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Search_engine" RUN_TARGET_NAME="Search_engine" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseInvertedIndex.TestBasic2" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Search_engine" TARGET_NAME="Search_engine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Search_engine" RUN_TARGET_NAME="Search_engine" TEST_CLASS="TestCaseInvertedIndex" TEST_METHOD="TestBasic2" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseInvertedIndex.TestInvertedIndexMissingWord" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Search_engine" TARGET_NAME="Search_engine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Search_engine" RUN_TARGET_NAME="Search_engine" TEST_CLASS="TestCaseInvertedIndex" TEST_METHOD="TestInvertedIndexMissingWord" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseSearchServer.TestSimple" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$ProjectFileDir$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Search_engine" TARGET_NAME="Search_engine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Search_engine" RUN_TARGET_NAME="Search_engine" TEST_CLASS="TestCaseSearchServer" TEST_METHOD="TestSimple" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseSearchServer.TestTop5" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Search_engine" TARGET_NAME="Search_engine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Search_engine" RUN_TARGET_NAME="Search_engine" TEST_CLASS="TestCaseSearchServer" TEST_METHOD="TestTop5" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search_engine" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Search_engine" TARGET_NAME="Search_engine" RUN_TARGET_PROJECT_NAME="Search_engine" RUN_TARGET_NAME="Search_engine">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All CTest" type="CTestRunConfiguration" factoryName="CTestRun" PROGRAM_PARAMS="--extra-verbose" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$CMakeCurrentLocalGenerationDir$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$CTestCurrentExecutableName$" EXPLICIT_BUILD_TARGET_NAME="all" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Search_engine" />
+      <item itemvalue="CTest Application.All CTest" />
+      <item itemvalue="Google Test.All in Search_engine" />
+      <item itemvalue="Google Test.TestCaseInvertedIndex.TestBasic2" />
+      <item itemvalue="Google Test.TestCaseInvertedIndex.TestInvertedIndexMissingWord" />
+      <item itemvalue="Google Test.TestCaseSearchServer.TestSimple" />
+      <item itemvalue="Google Test.TestCaseSearchServer.TestTop5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Application.Search_engine" />
+        <item itemvalue="Google Test.TestCaseSearchServer.TestTop5" />
+        <item itemvalue="Google Test.TestCaseSearchServer.TestSimple" />
+        <item itemvalue="Google Test.TestCaseInvertedIndex.TestInvertedIndexMissingWord" />
+        <item itemvalue="Google Test.TestCaseInvertedIndex.TestBasic2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a94d0e2f-0d30-43e2-8377-8c4d03761514" name="Changes" comment="" />
+      <created>1752633665510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752633665510</updated>
+      <workItem from="1752633667888" duration="17063000" />
+      <workItem from="1752716203922" duration="4588000" />
+      <workItem from="1752725255520" duration="504000" />
+      <workItem from="1752725771333" duration="4564000" />
+      <workItem from="1752732003550" duration="346000" />
+      <workItem from="1752732360420" duration="3288000" />
+      <workItem from="1752735673320" duration="2557000" />
+      <workItem from="1752738247059" duration="5341000" />
+      <workItem from="1752800124734" duration="2175000" />
+      <workItem from="1752804423872" duration="8134000" />
+      <workItem from="1752828520305" duration="4624000" />
+      <workItem from="1752838684664" duration="804000" />
+      <workItem from="1753064921372" duration="5140000" />
+      <workItem from="1753145938034" duration="4570000" />
+      <workItem from="1753150533826" duration="628000" />
+      <workItem from="1753151172131" duration="851000" />
+      <workItem from="1753152033663" duration="2303000" />
+      <workItem from="1753154502260" duration="922000" />
+      <workItem from="1753158713632" duration="798000" />
+      <workItem from="1753159522424" duration="618000" />
+      <workItem from="1753160151511" duration="936000" />
+      <workItem from="1753161096543" duration="1000" />
+      <workItem from="1753161122889" duration="3089000" />
+      <workItem from="1753170188220" duration="8904000" />
+      <workItem from="1753237107968" duration="9550000" />
+      <workItem from="1753258356419" duration="18608000" />
+      <workItem from="1753412899857" duration="119000" />
+      <workItem from="1753414248800" duration="931000" />
+      <workItem from="1753420819853" duration="1755000" />
+      <workItem from="1753422586392" duration="3010000" />
+      <workItem from="1753425615614" duration="3125000" />
+      <workItem from="1753430636325" duration="2222000" />
+      <workItem from="1753432876897" duration="3198000" />
+      <workItem from="1753436097707" duration="512000" />
+      <workItem from="1753436619775" duration="2654000" />
+      <workItem from="1753439690449" duration="1663000" />
+      <workItem from="1753441372182" duration="16000" />
+      <workItem from="1753669112736" duration="1164000" />
+      <workItem from="1753670287841" duration="2915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="CMakeExceptionBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="Search_engine" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://D:/Search_engine}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

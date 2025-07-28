@@ -1,0 +1,13 @@
+{
+    "answers": {
+        "request001": {
+            "result": true,
+            "relevance": [
+                {
+                    "docid": 0,
+                    "rank": "1"
+                }
+            ]
+        }
+    }
+}
